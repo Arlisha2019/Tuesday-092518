@@ -46,10 +46,3 @@ while True:
         grocery_item = GroceryItem(name)
 
         store.items.append(grocery_item)
-
-
-#print(store.store_name)
-#print(store.store_address)
-
-# for item in items:
-#     print(store.items[])
